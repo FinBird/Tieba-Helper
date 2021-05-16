@@ -3,7 +3,7 @@ name: 'Tieba auto helper'
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '1 16 * * *'
 
