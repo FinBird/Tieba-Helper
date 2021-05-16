@@ -1,4 +1,4 @@
-import tiebaBrowser as tb
+from tiebaBrowser import Browser
 import json
 import logging
 
@@ -11,7 +11,7 @@ def main():
 
     #封禁
     for n, i in enumerate(b):
-        t_browser = tb.Browser(i)
+        t_browser = Browser(i)
         if CONFIG_LIST['block_list'][n] == []:
             break
         logger.info("开始使用第" + str(n+1) + "个账户进行封禁")
