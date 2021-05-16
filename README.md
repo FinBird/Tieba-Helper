@@ -1,6 +1,8 @@
 # Tieba Cloud Review@Github Action
  利用Github Action自动进行各类贴吧操作，目前主要针对吧务管理
 
+![Tieba auto helper](https://github.com/FinBird/Tieba-Helper/workflows/Tieba%20auto%20Sign/badge.svg)
+
 # 使用方法
 
 1. Fork 本仓库，然后点击你的仓库右上角的 Settings，找到 Secrets 这一项，添加两个秘密环境变量。
