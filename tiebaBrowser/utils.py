@@ -20,13 +20,7 @@ from tiebaBrowser.logger import log
 import tiebaBrowser.api as api
 
 
-config = None
-try:
-    with SCRIPT_DIR.joinpath('config/config.json').open('r', encoding='utf-8') as file:
-        config = json.load(file)
-except Exception:
-    log.critical("Unable to read config.json!")
-    raise
+
 
 
 class Sessions(object):
