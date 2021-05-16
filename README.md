@@ -2,7 +2,7 @@
  利用Github Action自动进行各类贴吧操作，目前主要针对吧务管理
 
 # 执行状态
-![Tieba auto helper](https://github.com/FinBird/Tieba-Helper/workflows/Tieba%20auto%20Sign/badge.svg)
+[![Tieba auto helper](https://github.com/FinBird/Tieba-Helper/actions/workflows/main.yml/badge.svg)](https://github.com/FinBird/Tieba-Helper/actions/workflows/main.yml)
 
 # 使用方法
 
