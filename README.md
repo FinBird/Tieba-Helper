@@ -1,5 +1,5 @@
-# Tieba Cloud Review@Github Action
- 利用Github Action自动进行各类贴吧操作，目前主要针对吧务管理
+# Tieba Cloud Review
+ 进行各类贴吧操作，目前主要针对吧务管理
 
 # 执行状态
 [![Tieba auto helper](https://github.com/FinBird/Tieba-Helper/actions/workflows/main.yml/badge.svg)](https://github.com/FinBird/Tieba-Helper/actions/workflows/main.yml)
@@ -11,8 +11,8 @@
 -  `BDUSS` 存放你的 BDUSS。支持同时添加多个帐户，BDUSS 之间用 `#` 隔开即可。
 
 -  `CONFIG`为 json，存放有关操作的配置信息。具体请参考`config.json`
-2. 设置好环境变量后点击你的仓库上方的 `Actions` 选项，第一次打开需要点击 `I understand...` 按钮，确认在 Fork 的仓库上启用 GitHub Actions 。
-3. 任意发起一次commit，触发Action的执行。
+2. 设置好环境变量后点击你的仓库上方的选项，第一次打开需要点击 `I understand...` 按钮，确认在 Fork 的仓库上启用 。
+3. 任意发起一次commit，触发的执行。
 
 # TODO：
 
