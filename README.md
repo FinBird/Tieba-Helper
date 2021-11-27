@@ -26,7 +26,6 @@
 # 鸣谢
 
 本项目依托于[@Starry-OvO](https://github.com/Starry-OvO)的“贴吧云审查工具包”并有所修改
-
 本项目尚在建设中，欢迎Pull request
 
 # License
